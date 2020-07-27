@@ -1,0 +1,23 @@
+body {
+    background-color: wheat;
+}
+h1 {
+    background-color: yellowgreen;
+}
+.Texto {
+    background-color: yellowgreen;
+    font-family: Arial;
+    width: 1300px;
+    padding: 20px;
+}
+.tImagem {
+    background-color: yellow;
+    font-family: Arial;
+    width: 1290px;
+    padding: 20px;
+    border-style: solid;
+}
+h1 {
+    border-style: solid;
+    padding: 20px;
+}
