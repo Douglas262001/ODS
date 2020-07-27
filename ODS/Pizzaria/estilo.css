@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(247, 247, 83);
+}
+.Descricao {
+    background-color: tomato;
+    padding: 10px;
+}
+.TituloPizza {
+    background-color: rgb(248, 25, 25);
+    padding: 15px;
+}
+.Titulo {
+    Color: black;
+    background-color: tomato;
+    padding: 20px;
+}
